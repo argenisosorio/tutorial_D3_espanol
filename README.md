@@ -1,4 +1,4 @@
-#Tutorial de D3 en Espanol - En PDF
+#Tutorial de D3 en Espanol - PDF
 
--Este tutorial fue traducido por Gabriel Coch
--Todo el contenido fue desarrollado por y le pertenece a Scott Murray
+- Este tutorial fue traducido por Gabriel Coch
+- Todo el contenido fue desarrollado por y le pertenece a Scott Murray
